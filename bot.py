@@ -31,7 +31,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "8750340183:AAFzsxuvKhXiu3PZ3fzgQneg7beH
 
 # ⚠️ CHAT_ID তুমি দাওনি! এখানে তোমার Telegram group/chat ID বসাও
 # Group এর জন্য negative number হবে (যেমন: -1001234567890)
-CHAT_ID = os.environ.get("CHAT_ID", "PASTE_YOUR_CHAT_ID_HERE")
+CHAT_ID = os.environ.get("CHAT_ID", "6881373105")
 
 # --- RevU API ---
 API_KEY = os.environ.get("API_KEY", "UJySOkeLTFVNpgothrmx")
